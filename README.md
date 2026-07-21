@@ -15,7 +15,7 @@
 
 ## 🏅 Certifications
 - AWS Solutions Architect – Associate (SAA-C03) · 2026.07
-- 정보처리기사 · 20XX.XX
+- 정보처리기사 · 2024.06
 
 ## 📚 Currently Learning
 - Docker / Airflow (데이터 파이프라인 오케스트레이션)
