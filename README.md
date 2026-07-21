@@ -15,7 +15,7 @@
 
 ## 🏅 Certifications
 - AWS Solutions Architect – Associate (SAA-C03) · 2026.07
-- 정보처리기사 · 2024.06
+- 정보처리기사 · 20XX.XX
 
 ## 📚 Currently Learning
 - Docker / Airflow (데이터 파이프라인 오케스트레이션)
@@ -25,5 +25,5 @@
 ## 📂 Repositories
 | Repo | 설명 |
 |---|---|
-| python-study | Python 학습 코드 (2026.05~) |
+| python-study | Python 데이터 처리 학습 (pandas · SQLAlchemy · mini ETL) |
 | toy-project | 공공데이터 ETL 파이프라인 (진행 중) |
