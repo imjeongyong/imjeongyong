@@ -25,5 +25,5 @@
 ## 📂 Repositories
 | Repo | 설명 |
 |---|---|
-| python-study | Python 데이터 처리 학습 (pandas · SQLAlchemy · mini ETL) |
-| toy-project | 공공데이터 ETL 파이프라인 (진행 중) |
+| airflow-dq-pipeline | 공공데이터 ETL 파이프라인 · 데이터 품질 검증 (진행 중) |
+| python-study | Python 데이터 처리 학습 (pandas · SQLAlchemy) |
